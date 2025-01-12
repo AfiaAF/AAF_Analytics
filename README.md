@@ -16,3 +16,6 @@ with a focus on data cleaning, data visualization, and other data analytics proc
 -**Power BI**: Interactive reports, data modeling, and dashboard creation. 
 -**SQL**: Data extraction, querying, and aggregation from relational databases for analyses. 
 -**Python**: Basic Python programming using functions and libraries for data analysis and manipulation, including Pandas and NumPy.
+
+
+**NB**:The Excel and Power BI files can only be opened locally.
